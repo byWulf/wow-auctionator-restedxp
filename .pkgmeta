@@ -3,3 +3,6 @@ package-as: AuctionatorRestedXP
 ignore:
   - AGENTS.md
   - CLAUDE.md
+
+required-dependencies:
+  - auctionator

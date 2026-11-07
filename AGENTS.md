@@ -31,7 +31,7 @@ There is no automated test setup. Changes are verified in game with `/reload`, o
 
 ## Releasing
 
-Not published yet. Once a CurseForge project exists, add `## X-Curse-Project-ID` to the TOC and the CurseForge link to the README. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name and leaves out `AGENTS.md`/`CLAUDE.md`):
+Published on CurseForge as project `1789089` (https://www.curseforge.com/wow/addons/auctionator-restedxp-shopping-list) and as GitHub releases. `.pkgmeta` declares Auctionator as required dependency for the CurseForge upload. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name and leaves out `AGENTS.md`/`CLAUDE.md`):
 
 1. Commit and push the changes to `main`.
 2. Tag and push: `git tag -a vX.Y.Z -m "X.Y.Z"` and `git push origin vX.Y.Z` (semantic versioning).

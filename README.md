@@ -19,7 +19,7 @@ Classic Era and other versions are not supported.
 
 ## Installation
 
-Install it from CurseForge, e.g. with the CurseForge app.
+Install it from [CurseForge](https://www.curseforge.com/wow/addons/auctionator-restedxp-shopping-list), e.g. with the CurseForge app.
 
 For a manual installation, note that the folder in your AddOns directory **must** be named `AuctionatorRestedXP`, otherwise WoW will not load the addon:
 
@@ -37,6 +37,10 @@ Then `/reload` in game.
 Just open the auction house. The list **RestedXP** is updated and Auctionator opens it in the Shopping tab; a chat message lists the items. While the auction house is open, the list is updated again whenever the guide moves to another step.
 
 `/arxp` (or `/auctionatorrestedxp`) updates the list right away and prints it, e.g. after you skipped a step.
+
+## Tip: keep what you bought
+
+The items you buy this way are often needed only much later in the guide. To make sure you don't sell, bank or destroy them by accident in the meantime, have a look at [ArkInventory [Rules] RestedXP](https://www.curseforge.com/wow/addons/arkinventory-rules-restedxp). It lets ArkInventory put every item your RestedXP guide still needs into its own bar, so it is out of the way of your junk and sell rules.
 
 ## Which items count
 
@@ -64,4 +68,4 @@ If Solo Self Found is enabled in RestedXP, the list stays empty.
 
 ## License
 
-[MIT](LICENSE)
+MIT, see [LICENSE](LICENSE).

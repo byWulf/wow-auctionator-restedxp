@@ -5,6 +5,7 @@
 ## Author: byWulf
 ## Version: @project-version@
 ## X-License: MIT
+## X-Curse-Project-ID: 1789089
 ## IconTexture: Interface\Icons\INV_Misc_Coin_02
 ## Dependencies: Auctionator
 ## OptionalDeps: RXPGuides
