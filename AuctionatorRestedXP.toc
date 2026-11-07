@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Auctionator RestedXP Shopping List
+## Notes: Fills an Auctionator shopping list with the items and quantities your RestedXP guide wants you to buy at the auction house
+## Notes-deDE: Füllt eine Auctionator-Einkaufsliste mit den Items und Mengen, die dein RestedXP-Guide im Auktionshaus kaufen lassen will
+## Author: byWulf
+## Version: @project-version@
+## X-License: MIT
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+## Dependencies: Auctionator
+## OptionalDeps: RXPGuides
+
+AuctionatorRestedXP.lua
